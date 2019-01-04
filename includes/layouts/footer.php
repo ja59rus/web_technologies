@@ -5,7 +5,6 @@
 	</body>
 </html>
 <?php
-  // 5. Закрытие соединения
 	if (isset($connection)) {
 	  mysqli_close($connection);
 	}

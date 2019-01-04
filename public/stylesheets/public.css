@@ -35,3 +35,9 @@ body {
 	height: 50px;
 	vertical-align: middle;
 }
+#page{
+	margin: 20px;
+}
+#logout{
+	margin: 20px;
+}
